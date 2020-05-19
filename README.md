@@ -1,5 +1,5 @@
 # Project-Akhir-APS
-Project Akhir APS untuk memenuhi tugas akhir UAS Analisis dan Perancangan User
+Project Akhir APS untuk memenuhi tugas akhir UAS Analisis dan Perancangan Sistem
 
 # Anggota Kelompok :
 
