@@ -1,5 +1,5 @@
 # Project-Akhir-APS
-Project Akhir APS untuk memenuhi tugas akhir UAS Analisis dan Perancangan Sistem
+Sistem Online Book Store untuk memenuhi tugas akhir UAS Analisis dan Perancangan Sistem
 
 # Anggota Kelompok :
 
